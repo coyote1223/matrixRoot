@@ -6,3 +6,5 @@
 
  To run the program, go to matrix/lib, download the Matrix.jar file and run it in the
  Windows command line with: java -jar Matrix.jar 
+ 
+ Feel free to provide some feedback
